@@ -16,12 +16,12 @@ En este ejercicio vas a crear un servidor web para una tienda online usando Expr
 npm install
 ```
 
-2. Inicia el servidor:
+2. Crea tu servidor en express en: `http://localhost:3000`
+
+3. Inicia el servidor:
 ```bash
 npm start
 ```
-
-3. Crea tu servidor en express y abre tu navegador en: `http://localhost:3000` o el puerto donde hayas creado el servidor.
 
 ## ✅ Tareas a completar
 
